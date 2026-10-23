@@ -1,17 +1,12 @@
 {
-  "product": "Vacenda",
+  "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.23.04",
+  "version": "2026.10.23.05",
   "notes": [
-    "New: Dark mode. Use the new light/dark switch in Settings to change how the whole program looks.",
-    "New: Lavender theme in purples and lilac, plus Oceanic, Slate and Warm Neutral themes to choose from.",
-    "New: The calendar is now a month view with weeks across, showing each stay as a bar over its days.",
-    "New: Drag across days in the calendar to start a booking or block with those dates.",
-    "New: Filter the calendar by property, or show all properties together.",
-    "Improved: Panels, menus and side sheets now follow your chosen theme and dark mode."
+    "Cancel booking now shows on every confirmed booking, including ones whose stay has already ended."
   ],
-  "date": "2026-10-23T22:14:06.243Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.04/web.zip",
-  "sha256": "ceee7b0f1a720f1395eeaf62ca3c0c4e383176de7b2d7fdf12ee7be26e5e1496",
-  "size": 1412388
+  "date": "2026-10-23T22:41:54.045Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.05/web.zip",
+  "sha256": "ca6712ed05e33c9a7721a5b7ba331d9335d818d95a37b999ef02465bc7ecba82",
+  "size": 1414031
 }
