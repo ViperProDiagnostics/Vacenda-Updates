@@ -1,17 +1,17 @@
 {
   "product": "Vacenda",
   "channel": "base",
-  "version": "2026.10.23.03",
+  "version": "2026.10.23.04",
   "notes": [
-    "New: Choose a color theme in Settings. Pick from Indigo, Berry, Terracotta or Forest.",
-    "New: The program now has a new name, Lodger, with a new logo shown throughout.",
-    "New: Pages now sit as icons down the left side. Hover over one to see its name.",
-    "Improved: Badges on the page icons show how many requests, payments and cleanings need you.",
-    "Improved: Your business name and the New booking button now sit in a top bar.",
-    "Improved: Buttons, the calendar and the Today panel now follow your chosen theme colors."
+    "New: Dark mode. Use the new light/dark switch in Settings to change how the whole program looks.",
+    "New: Lavender theme in purples and lilac, plus Oceanic, Slate and Warm Neutral themes to choose from.",
+    "New: The calendar is now a month view with weeks across, showing each stay as a bar over its days.",
+    "New: Drag across days in the calendar to start a booking or block with those dates.",
+    "New: Filter the calendar by property, or show all properties together.",
+    "Improved: Panels, menus and side sheets now follow your chosen theme and dark mode."
   ],
-  "date": "2026-10-23T21:45:41.070Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.03/web.zip",
-  "sha256": "8a878e596e9c33a71b214a362e8d77c8c555fe5830fbfed64858d7fd2abc9acc",
-  "size": 1409648
+  "date": "2026-10-23T22:14:06.243Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.04/web.zip",
+  "sha256": "ceee7b0f1a720f1395eeaf62ca3c0c4e383176de7b2d7fdf12ee7be26e5e1496",
+  "size": 1412388
 }
