@@ -1,18 +1,17 @@
 {
   "product": "Vacenda",
   "channel": "base",
-  "version": "2026.10.23.01",
+  "version": "2026.10.23.03",
   "notes": [
-    "New: A Contracts page where you can write rental agreements and choose which property each one is for.",
-    "New: Send a contract from a booking, email it to the guest, and have them sign it on screen with a finger, pen or mouse.",
-    "New: Create an invoice for a booking, then print it or email it to the guest.",
-    "New: A sample rental agreement is included so you can start from something ready-made.",
-    "New: Bookings can now record children, pets and the guest's arrival time.",
-    "New: When you save a booking, you can go straight on to sending a contract or an invoice.",
-    "Improved: A booking's page now shows the contract and invoice status, and the extra guest details."
+    "New: Choose a color theme in Settings. Pick from Indigo, Berry, Terracotta or Forest.",
+    "New: The program now has a new name, Lodger, with a new logo shown throughout.",
+    "New: Pages now sit as icons down the left side. Hover over one to see its name.",
+    "Improved: Badges on the page icons show how many requests, payments and cleanings need you.",
+    "Improved: Your business name and the New booking button now sit in a top bar.",
+    "Improved: Buttons, the calendar and the Today panel now follow your chosen theme colors."
   ],
-  "date": "2026-10-23T20:29:08.759Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.01/web.zip",
-  "sha256": "79185a02598b3e3f8f21cc0a2313b52d38174a0cae24cc7262a988108a91c1a5",
-  "size": 1406346
+  "date": "2026-10-23T21:45:41.070Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.03/web.zip",
+  "sha256": "8a878e596e9c33a71b214a362e8d77c8c555fe5830fbfed64858d7fd2abc9acc",
+  "size": 1409648
 }
