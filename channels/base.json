@@ -1,12 +1,15 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.23.05",
+  "version": "2026.10.23.06",
   "notes": [
-    "Cancel booking now shows on every confirmed booking, including ones whose stay has already ended."
+    "New: Mark a property as \"No pets\" in its details, and the pet questions are left off its bookings.",
+    "New: Properties that don't allow pets show \"No pets\" on their card.",
+    "Improved: The type of pet now shows when you hover over a booking on the calendar.",
+    "Improved: Pet details are hidden for properties that don't allow pets, but any already saved on a booking are kept."
   ],
-  "date": "2026-10-23T22:41:54.045Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.05/web.zip",
-  "sha256": "ca6712ed05e33c9a7721a5b7ba331d9335d818d95a37b999ef02465bc7ecba82",
-  "size": 1414031
+  "date": "2026-10-23T23:13:40.851Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.06/web.zip",
+  "sha256": "7447e20e89d17365bd7c9a387d9f3ecba461bf8efa77c3776782ae4cf0fbf98d",
+  "size": 711512
 }
