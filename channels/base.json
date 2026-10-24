@@ -1,12 +1,12 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.09",
+  "version": "2026.10.24.10",
   "notes": [
-    "Contracts & Forms: forms you design (sections on or off, your own questions: short or long answer, yes or no, choose one, number, date, checkbox; required or optional; help text; order), with a previe"
+    "Forms: a real form builder with blocks and a live preview"
   ],
-  "date": "2026-10-24T16:10:18.167Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.09/web.zip",
-  "sha256": "688adacdc7222ef53cb433b7ec6b304c4ff624b7767ce8a61b66ee7247c39271",
-  "size": 742127
+  "date": "2026-10-24T16:27:06.586Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.10/web.zip",
+  "sha256": "28775aad28e1e6a1147f12d82521ceab185bcf306022efbcfaa9eb5f9f1714c1",
+  "size": 745401
 }
