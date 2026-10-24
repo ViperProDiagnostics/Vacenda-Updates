@@ -1,13 +1,13 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.04",
+  "version": "2026.10.24.05",
   "notes": [
-    "Settings: Show a test notification (the completed guest form window and Windows notice, with a sample guest)",
-    "Guest forms: a completed form pops up a window with Open booking, a Windows notice, New guest forms on Today, a count on Bookings, and a note on the booking; Lodger checks every 2 minutes and when it"
+    "Booking printout: the rate and each tax, every payment (deposit, balance, security deposit held), the number of occupants against the property's maximum; sections kept together",
+    "Booking: Print / PDF at the top (Signed contract, Guest information, or All) makes a clean printable page, saved as a PDF from Windows' print window; printing works in the installed app (no pop-up win"
   ],
-  "date": "2026-10-24T15:19:34.038Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.04/web.zip",
-  "sha256": "c8e87e4162e2166f39493d66781bb0257759107f976d5a34def11a0282088d97",
-  "size": 717320
+  "date": "2026-10-24T15:34:36.241Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.05/web.zip",
+  "sha256": "0ac7223e4811869e4d0dbbf7ad79806c09ee53ad237c07f02458ef643e816e15",
+  "size": 720125
 }
