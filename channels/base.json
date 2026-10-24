@@ -1,16 +1,19 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.01",
+  "version": "2026.10.24.02",
   "notes": [
-    "New: The page's icon in the browser tab now matches your chosen color theme.",
-    "Improved: The icon also updates when you switch between light and dark mode.",
-    "Improved: Insights now has a \"Last month\" view so you can look back at how the previous month went.",
-    "Improved: Insights now shows three views: This month, Last month and This year.",
-    "Fixed: The \"Next month\" and \"Last 12 months\" views have been removed from Insights."
+    "New: Send guests a form by email from a booking, with a link they fill in on their phone or computer.",
+    "New: Guests enter their phone, address, emergency contact, arrival time, everyone staying, and their vehicles and boats.",
+    "New: Guests can sign the rental agreement online, and the signed copy is saved on the booking.",
+    "New: Completed forms are added to the booking automatically, and you get a notice when one arrives.",
+    "New: Guest forms online in Settings to connect your own form service, with an optional minimum age.",
+    "New: \"Send the guest form\" is now an option after saving a new booking.",
+    "Improved: The new booking screen is shorter, because guests now fill in their own details.",
+    "Improved: A booking's page shows everyone staying, their vehicles and boats, and whether the guest form is done."
   ],
-  "date": "2026-10-24T13:47:19.250Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.01/web.zip",
-  "sha256": "6f4a88e8cd4131726944a2df363501323d4f99e591bf907471a02788781e5b59",
-  "size": 713374
+  "date": "2026-10-24T14:28:11.934Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.02/web.zip",
+  "sha256": "fb6902c6de54fcc197f2c7724220a3d8c4af693d631e5b2152b018bb72e36521",
+  "size": 716474
 }
