@@ -1,13 +1,13 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.03",
+  "version": "2026.10.24.04",
   "notes": [
-    "New: Guest forms can now send emails, once you add your email details (Resend key, sender address and business name) in GitHub.",
-    "Improved: The guest forms status check now tells you whether email sending is set up."
+    "Settings: Show a test notification (the completed guest form window and Windows notice, with a sample guest)",
+    "Guest forms: a completed form pops up a window with Open booking, a Windows notice, New guest forms on Today, a count on Bookings, and a note on the booking; Lodger checks every 2 minutes and when it"
   ],
-  "date": "2026-10-24T15:06:36.448Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.03/web.zip",
-  "sha256": "9b1b562a536f63368da2cafe2ec50fb041a8471ca8acc3fd283959dea153daea",
-  "size": 716474
+  "date": "2026-10-24T15:19:34.038Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.04/web.zip",
+  "sha256": "c8e87e4162e2166f39493d66781bb0257759107f976d5a34def11a0282088d97",
+  "size": 717320
 }
