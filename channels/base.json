@@ -1,12 +1,12 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.06",
+  "version": "2026.10.24.07",
   "notes": [
-    "Booking: Export (Signed contract, Guest information or All) opens Windows' save window and saves a PDF; the print window is only used where saving isn't available"
+    "Improved: Exporting a booking now names the PDF \"{guest name} Rental Information {arrival date}\", with the same name whichever export option you pick."
   ],
-  "date": "2026-10-24T15:37:22.743Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.06/web.zip",
-  "sha256": "0000b27c9b43b2692bd541b75abbc68d4387ca524c2b129c7b012f1597454ad4",
-  "size": 720207
+  "date": "2026-10-24T15:43:18.220Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.07/web.zip",
+  "sha256": "6ac8b30023d694ad94ce4445a1c308d2fdbe310489d5524f7e71e1ac811e3515",
+  "size": 720195
 }
