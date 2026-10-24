@@ -1,14 +1,12 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.08",
+  "version": "2026.10.24.09",
   "notes": [
-    "New: Properties have a new option, \"The cleaning fee is included in the nightly rate.\" When it's on, the price shows the rental and the cleaning fee separately. The guest still pays the nightly total ",
-    "Improved: Bookings, invoices and printouts now show the same price breakdown.",
-    "Fixed: The last row of a table at the bottom of a card now highlights with the card's rounded corners when you hover over it."
+    "Contracts & Forms: forms you design (sections on or off, your own questions: short or long answer, yes or no, choose one, number, date, checkbox; required or optional; help text; order), with a previe"
   ],
-  "date": "2026-10-24T16:00:20.513Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.08/web.zip",
-  "sha256": "ec4174d50a3325404bcfc87c58466d249a6bc186b841693b73249b6c2e11c498",
-  "size": 732058
+  "date": "2026-10-24T16:10:18.167Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.09/web.zip",
+  "sha256": "688adacdc7222ef53cb433b7ec6b304c4ff624b7767ce8a61b66ee7247c39271",
+  "size": 742127
 }
