@@ -1,19 +1,19 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.15",
+  "version": "2026.10.24.16",
   "notes": [
-    "Improved: Answers from a guest form now fill the booking's own boxes, and the form's section only shows answers that have no box of their own.",
-    "Improved: The Guest information PDF now puts the guest's full name and the stay dates in large type at the top.",
-    "Improved: The Guest information PDF no longer shows empty \"Not recorded\" or \"None recorded\" headings for people and vehicles.",
-    "Improved: Unticked checkboxes are left out of a guest's saved form answers.",
-    "Improved: Vehicles, boats and license plates now show on the booking page under Vehicles and boats instead of under Stay.",
-    "Improved: On a booking, a pet's type can now be filled in from short answer, long answer, dropdown, choice and multiple-choice questions.",
-    "Fixed: Forms that guests filled in earlier no longer repeat details the booking already shows.",
-    "Improved: The booking's Guest section no longer shows the guest's number of stays."
+    "Improved: The booking page has a new, cleaner layout, with arrival, checkout, occupants and amount still to pay shown at the top.",
+    "Improved: Booking details are now plain rows grouped into sections, so they're easier to scan and match your chosen theme colors.",
+    "Improved: Rental agreement, guest form, house rules, minimum age and photo ID are now together in one Paperwork section.",
+    "Improved: Vehicles, boats and pets now show on one line each in the Stay section, with plates included.",
+    "New: You can mark a guest's photo ID as checked with one click on the booking page.",
+    "New: Guest forms have a new Notes field you can add, and whatever the guest writes goes into the booking's notes.",
+    "Improved: The form option for adding answers to a booking's notes is now called \"Save to notes\".",
+    "Improved: The message shown when a guest completes a form is simpler."
   ],
-  "date": "2026-10-24T18:35:27.708Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.15/web.zip",
-  "sha256": "bc98de14c2b91722dccc7cf31a29b9426c1ec2f83cd96d161431c9cf899e9e82",
-  "size": 747865
+  "date": "2026-10-24T18:51:49.579Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.16/web.zip",
+  "sha256": "478d66718c482298e4f1a89286af0e219e299e3fc73b47b7bfd53c8d21457521",
+  "size": 748729
 }
