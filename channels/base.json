@@ -1,12 +1,14 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.07",
+  "version": "2026.10.24.08",
   "notes": [
-    "Improved: Exporting a booking now names the PDF \"{guest name} Rental Information {arrival date}\", with the same name whichever export option you pick."
+    "New: Properties have a new option, \"The cleaning fee is included in the nightly rate.\" When it's on, the price shows the rental and the cleaning fee separately. The guest still pays the nightly total ",
+    "Improved: Bookings, invoices and printouts now show the same price breakdown.",
+    "Fixed: The last row of a table at the bottom of a card now highlights with the card's rounded corners when you hover over it."
   ],
-  "date": "2026-10-24T15:43:18.220Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.07/web.zip",
-  "sha256": "6ac8b30023d694ad94ce4445a1c308d2fdbe310489d5524f7e71e1ac811e3515",
-  "size": 720195
+  "date": "2026-10-24T16:00:20.513Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.08/web.zip",
+  "sha256": "ec4174d50a3325404bcfc87c58466d249a6bc186b841693b73249b6c2e11c498",
+  "size": 732058
 }
