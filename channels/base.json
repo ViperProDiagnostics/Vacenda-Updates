@@ -1,19 +1,12 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.11",
+  "version": "2026.10.24.12",
   "notes": [
-    "New: Every guest form is now kept on the booking exactly as the guest answered it, with the form's sections in order.",
-    "New: If you send a guest more than one form, each one is shown separately on the booking.",
-    "Improved: Lists, such as children or vehicles, show as neat tables on the booking.",
-    "Improved: Signatures from guest forms show as a picture with the signer's name.",
-    "Improved: Questions the guest left blank now say \"No answer\".",
-    "Improved: Export now includes every guest form as answered, with the date it was completed.",
-    "Fixed: Older bookings with saved form answers still show them.",
-    "Fixed: A signature on a form is now kept even if it isn't the main contract signature."
+    "Form editor: Add a field or block is pinned at the top and adds after the block you're working on"
   ],
-  "date": "2026-10-24T16:48:50.509Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.11/web.zip",
-  "sha256": "410340943fc1124e20d3a44feec2930620b64e5ab0ff7c5821069fd71c37b2c0",
-  "size": 746363
+  "date": "2026-10-24T16:58:25.938Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.12/web.zip",
+  "sha256": "f228bc95850a2f3ddb659a050defa8c624d87cbdf06b8c0af0fe869be31dd339",
+  "size": 746579
 }
