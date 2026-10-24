@@ -1,12 +1,19 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.12",
+  "version": "2026.10.24.13",
   "notes": [
-    "Form editor: Add a field or block is pinned at the top and adds after the block you're working on"
+    "New: Guest forms can now fill in more of the booking, including the guest's name and email, the number of adults and children, pets, and vehicles and boats.",
+    "New: Forms can have a \"No pets\" or \"No vehicles or boats\" answer, and the booking shows \"None\" when a guest said so.",
+    "New: Any form answer can be added to the booking's notes.",
+    "Improved: When you build a form, the \"Saves to\" list is now grouped (Guest, Stay, Pets, Vehicles and boats and so on), so it's easier to find what you need.",
+    "Improved: Guest forms start with the guest's name and email already filled in.",
+    "Improved: More kinds of fields, such as dropdowns, Yes or no and number fields, can now fill in the booking.",
+    "Improved: You can now save several form answers into the booking's notes in the same form.",
+    "Fixed: A \"Yes or no\" answer of \"No\" no longer ticks \"agreed to the house rules\" or \"at least the minimum age\" on the booking."
   ],
-  "date": "2026-10-24T16:58:25.938Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.12/web.zip",
-  "sha256": "f228bc95850a2f3ddb659a050defa8c624d87cbdf06b8c0af0fe869be31dd339",
-  "size": 746579
+  "date": "2026-10-24T17:39:17.346Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.13/web.zip",
+  "sha256": "1745fb9d664173f21c428d4a7eee57142135222c18d623604eda14b266460125",
+  "size": 747560
 }
