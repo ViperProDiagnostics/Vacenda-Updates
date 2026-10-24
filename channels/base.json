@@ -1,19 +1,19 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.16",
+  "version": "2026.10.24.17",
   "notes": [
-    "Improved: The booking page has a new, cleaner layout, with arrival, checkout, occupants and amount still to pay shown at the top.",
-    "Improved: Booking details are now plain rows grouped into sections, so they're easier to scan and match your chosen theme colors.",
-    "Improved: Rental agreement, guest form, house rules, minimum age and photo ID are now together in one Paperwork section.",
-    "Improved: Vehicles, boats and pets now show on one line each in the Stay section, with plates included.",
-    "New: You can mark a guest's photo ID as checked with one click on the booking page.",
-    "New: Guest forms have a new Notes field you can add, and whatever the guest writes goes into the booking's notes.",
-    "Improved: The form option for adding answers to a booking's notes is now called \"Save to notes\".",
-    "Improved: The message shown when a guest completes a form is simpler."
+    "Improved: Guest information, rental agreement and invoice PDFs have a new look, with one letterhead, a summary of the stay at the top, and full-width sections.",
+    "Improved: PDFs show the booking date, and any notes appear as additional information.",
+    "Improved: The guest information PDF shows agreements and checks in a clear checklist, and charges and payments together with the balance due.",
+    "New: The invoice now exports as a PDF, with an invoice number and date.",
+    "New: The rental agreement exports as a PDF. If it isn't signed yet, it has blank lines for signing.",
+    "Improved: The Print buttons on contracts and invoices are now Export buttons.",
+    "New: Photo ID can be marked as \"Not checked\" again if you marked it by mistake.",
+    "Fixed: Occupant ages of 0 now show on the PDF."
   ],
-  "date": "2026-10-24T18:51:49.579Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.16/web.zip",
-  "sha256": "478d66718c482298e4f1a89286af0e219e299e3fc73b47b7bfd53c8d21457521",
-  "size": 748729
+  "date": "2026-10-24T19:37:19.574Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.17/web.zip",
+  "sha256": "2c1739eb07cd9a60cc36acc6dbc226c54efd28fc49e5d8793cf31d1f40fec3e5",
+  "size": 750254
 }
