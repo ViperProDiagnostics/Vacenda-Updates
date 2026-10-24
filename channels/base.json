@@ -1,19 +1,13 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.02",
+  "version": "2026.10.24.03",
   "notes": [
-    "New: Send guests a form by email from a booking, with a link they fill in on their phone or computer.",
-    "New: Guests enter their phone, address, emergency contact, arrival time, everyone staying, and their vehicles and boats.",
-    "New: Guests can sign the rental agreement online, and the signed copy is saved on the booking.",
-    "New: Completed forms are added to the booking automatically, and you get a notice when one arrives.",
-    "New: Guest forms online in Settings to connect your own form service, with an optional minimum age.",
-    "New: \"Send the guest form\" is now an option after saving a new booking.",
-    "Improved: The new booking screen is shorter, because guests now fill in their own details.",
-    "Improved: A booking's page shows everyone staying, their vehicles and boats, and whether the guest form is done."
+    "New: Guest forms can now send emails, once you add your email details (Resend key, sender address and business name) in GitHub.",
+    "Improved: The guest forms status check now tells you whether email sending is set up."
   ],
-  "date": "2026-10-24T14:28:11.934Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.02/web.zip",
-  "sha256": "fb6902c6de54fcc197f2c7724220a3d8c4af693d631e5b2152b018bb72e36521",
+  "date": "2026-10-24T15:06:36.448Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.03/web.zip",
+  "sha256": "9b1b562a536f63368da2cafe2ec50fb041a8471ca8acc3fd283959dea153daea",
   "size": 716474
 }
