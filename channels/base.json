@@ -1,18 +1,16 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.23.07",
+  "version": "2026.10.24.01",
   "notes": [
-    "New: Adding a booking now goes step by step: Stay, Guest, Price, Before arrival and Finish.",
-    "New: A row of steps across the top shows where you are, with ticks on the ones you've finished.",
-    "New: Click any step you've already reached to jump back to it.",
-    "Improved: Dates and guest name are checked before you move on, so mistakes are caught early.",
-    "Improved: Each step has a short note on what it's for, with Next and Back buttons and a smooth slide between steps.",
-    "Improved: Pressing Enter moves you to the next step instead of saving too early.",
-    "Improved: The new booking window looks right in dark mode, too."
+    "New: The page's icon in the browser tab now matches your chosen color theme.",
+    "Improved: The icon also updates when you switch between light and dark mode.",
+    "Improved: Insights now has a \"Last month\" view so you can look back at how the previous month went.",
+    "Improved: Insights now shows three views: This month, Last month and This year.",
+    "Fixed: The \"Next month\" and \"Last 12 months\" views have been removed from Insights."
   ],
-  "date": "2026-10-24T00:15:56.113Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.07/web.zip",
-  "sha256": "15c2b4efa22c00f4ed8a2cef3d7b851d5df4406abe96114b36ed4f5c6e4efa6f",
-  "size": 713023
+  "date": "2026-10-24T13:47:19.250Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.01/web.zip",
+  "sha256": "6f4a88e8cd4131726944a2df363501323d4f99e591bf907471a02788781e5b59",
+  "size": 713374
 }
