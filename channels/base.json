@@ -1,18 +1,19 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.14",
+  "version": "2026.10.24.15",
   "notes": [
-    "Improved: Bookings now show one \"Total number of occupants\" number instead of separate adults and children.",
-    "Improved: The booking form asks for the total number of occupants, and the price quote uses that number.",
-    "Improved: The guest form builder has a \"Total number of occupants\" option to link a question to.",
-    "Improved: The bookings list, hover details, booking page and printed guest information all show the total number of occupants.",
-    "Improved: Rental agreements fill in the total number of occupants.",
-    "Improved: Older bookings that recorded adults and children separately still show the right total.",
-    "Fixed: The \"sleeps up to\" warning now says \"occupants\" instead of \"guests\"."
+    "Improved: Answers from a guest form now fill the booking's own boxes, and the form's section only shows answers that have no box of their own.",
+    "Improved: The Guest information PDF now puts the guest's full name and the stay dates in large type at the top.",
+    "Improved: The Guest information PDF no longer shows empty \"Not recorded\" or \"None recorded\" headings for people and vehicles.",
+    "Improved: Unticked checkboxes are left out of a guest's saved form answers.",
+    "Improved: Vehicles, boats and license plates now show on the booking page under Vehicles and boats instead of under Stay.",
+    "Improved: On a booking, a pet's type can now be filled in from short answer, long answer, dropdown, choice and multiple-choice questions.",
+    "Fixed: Forms that guests filled in earlier no longer repeat details the booking already shows.",
+    "Improved: The booking's Guest section no longer shows the guest's number of stays."
   ],
-  "date": "2026-10-24T17:56:11.294Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.14/web.zip",
-  "sha256": "8f59d4dff14f94353dfbca35b175e55c24741c119e0b87098e51815ab91fb412",
-  "size": 747574
+  "date": "2026-10-24T18:35:27.708Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.15/web.zip",
+  "sha256": "bc98de14c2b91722dccc7cf31a29b9426c1ec2f83cd96d161431c9cf899e9e82",
+  "size": 747865
 }
