@@ -1,15 +1,18 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.23.06",
+  "version": "2026.10.23.07",
   "notes": [
-    "New: Mark a property as \"No pets\" in its details, and the pet questions are left off its bookings.",
-    "New: Properties that don't allow pets show \"No pets\" on their card.",
-    "Improved: The type of pet now shows when you hover over a booking on the calendar.",
-    "Improved: Pet details are hidden for properties that don't allow pets, but any already saved on a booking are kept."
+    "New: Adding a booking now goes step by step: Stay, Guest, Price, Before arrival and Finish.",
+    "New: A row of steps across the top shows where you are, with ticks on the ones you've finished.",
+    "New: Click any step you've already reached to jump back to it.",
+    "Improved: Dates and guest name are checked before you move on, so mistakes are caught early.",
+    "Improved: Each step has a short note on what it's for, with Next and Back buttons and a smooth slide between steps.",
+    "Improved: Pressing Enter moves you to the next step instead of saving too early.",
+    "Improved: The new booking window looks right in dark mode, too."
   ],
-  "date": "2026-10-23T23:13:40.851Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.06/web.zip",
-  "sha256": "7447e20e89d17365bd7c9a387d9f3ecba461bf8efa77c3776782ae4cf0fbf98d",
-  "size": 711512
+  "date": "2026-10-24T00:15:56.113Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.23.07/web.zip",
+  "sha256": "15c2b4efa22c00f4ed8a2cef3d7b851d5df4406abe96114b36ed4f5c6e4efa6f",
+  "size": 713023
 }
