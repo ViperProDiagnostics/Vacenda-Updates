@@ -1,13 +1,12 @@
 {
   "product": "Lodger",
   "channel": "base",
-  "version": "2026.10.24.05",
+  "version": "2026.10.24.06",
   "notes": [
-    "Booking printout: the rate and each tax, every payment (deposit, balance, security deposit held), the number of occupants against the property's maximum; sections kept together",
-    "Booking: Print / PDF at the top (Signed contract, Guest information, or All) makes a clean printable page, saved as a PDF from Windows' print window; printing works in the installed app (no pop-up win"
+    "Booking: Export (Signed contract, Guest information or All) opens Windows' save window and saves a PDF; the print window is only used where saving isn't available"
   ],
-  "date": "2026-10-24T15:34:36.241Z",
-  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.05/web.zip",
-  "sha256": "0ac7223e4811869e4d0dbbf7ad79806c09ee53ad237c07f02458ef643e816e15",
-  "size": 720125
+  "date": "2026-10-24T15:37:22.743Z",
+  "url": "https://github.com/ViperProDiagnostics/Vacenda-Updates/releases/download/base-2026.10.24.06/web.zip",
+  "sha256": "0000b27c9b43b2692bd541b75abbc68d4387ca524c2b129c7b012f1597454ad4",
+  "size": 720207
 }
